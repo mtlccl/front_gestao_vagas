@@ -2,10 +2,13 @@
 # Gestão de vagas - FrontEnd
 
 Este projeto foi desenvolvido como parte da trilha de Java do programa Ignite, com foco na criação da interface gráfica do front-end. Ele utiliza o Thymeleaf, uma template engine integrada ao Spring, que facilita o desenvolvimento de interfaces dinâmicas e simplifica a integração com o back-end. O objetivo foi criar uma interface gráfica funcional e eficiente, mantendo a simplicidade e agilidade no desenvolvimento.
-
- ![Captura de tela 2025-03-13 132133](https://github.com/user-attachments/assets/6b9b1f7b-7d22-4cdc-94bd-ba994c8ef695)
+## Pagina de login
 
  ![image](https://github.com/user-attachments/assets/04a35eb6-8341-44e2-a87c-83cd0872ae8c)
+
+
+## Pagina de cadastro de empresas
+ ![Captura de tela 2025-03-13 132133](https://github.com/user-attachments/assets/6b9b1f7b-7d22-4cdc-94bd-ba994c8ef695)
 
 ## Resetar o application.properties para o Ambiente Local
 
