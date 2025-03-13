@@ -5,7 +5,8 @@ Este projeto foi desenvolvido como parte da trilha de Java do programa Ignite, c
 
  ![Captura de tela 2025-03-13 132133](https://github.com/user-attachments/assets/6b9b1f7b-7d22-4cdc-94bd-ba994c8ef695)
 
- 
+ ![image](https://github.com/user-attachments/assets/04a35eb6-8341-44e2-a87c-83cd0872ae8c)
+
 ## Resetar o application.properties para o Ambiente Local
 
 1 - Abra o arquivo src/main/resources/application.properties.
